@@ -1,0 +1,11 @@
+Brand,RAM,Storage,Processor,ScreenSize,Price
+Dell,8,512,i5,15.6,55000
+HP,16,512,i7,15.6,75000
+Lenovo,8,256,i5,14,50000
+Asus,16,1024,i7,15.6,90000
+Acer,4,256,i3,14,35000
+Apple,8,512,M1,13.3,95000
+Dell,16,1024,i7,15.6,85000
+HP,8,512,i5,14,60000
+Lenovo,4,256,i3,15.6,32000
+Asus,8,512,Ryzen5,15.6,65000
